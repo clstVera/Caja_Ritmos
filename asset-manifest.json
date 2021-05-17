@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/Caja_Ritmos/static/js/main.a5fdb24f.chunk.js",
+    "main.js.map": "/Caja_Ritmos/static/js/main.a5fdb24f.chunk.js.map",
+    "runtime-main.js": "/Caja_Ritmos/static/js/runtime-main.7a86f270.js",
+    "runtime-main.js.map": "/Caja_Ritmos/static/js/runtime-main.7a86f270.js.map",
+    "static/js/2.bfe0c071.chunk.js": "/Caja_Ritmos/static/js/2.bfe0c071.chunk.js",
+    "static/js/2.bfe0c071.chunk.js.map": "/Caja_Ritmos/static/js/2.bfe0c071.chunk.js.map",
+    "index.html": "/Caja_Ritmos/index.html",
+    "static/js/2.bfe0c071.chunk.js.LICENSE.txt": "/Caja_Ritmos/static/js/2.bfe0c071.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a86f270.js",
+    "static/js/2.bfe0c071.chunk.js",
+    "static/js/main.a5fdb24f.chunk.js"
+  ]
+}
